@@ -1,3 +1,4 @@
+# API Maps
 Um projeto desenvolvido em Laravel, com integração de APIs de Mapas, para criar aplicações web modernas, dinâmicas e interativas.
 
 Funcionalidades
@@ -10,5 +11,3 @@ Blade – Template engine do Laravel
 MySQL – Persistência de dados
 API de Mapas (ex.: Google Maps) – Renderização geográfica interativa
 Bootstrap / CSS – Estilização da interface
-
-paginas 
